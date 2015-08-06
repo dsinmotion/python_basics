@@ -1,0 +1,17 @@
+##################################
+############ Help ###############
+##################################
+
+# Help help on built-in functions e.g., help(len)
+help(object)
+
+
+##################################
+############ print ###############
+##################################
+Note that Print only print out interpreted results
+
+x = 'fred'
+print(x)    -- outputs fred   (quotes got removed due to the interpreter)
+x           -- outputs 'fred'
+
